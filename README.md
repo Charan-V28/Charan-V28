@@ -10,6 +10,10 @@
 
 ### 🚀 About Me
 
+I am a high school student who is passionate about computer science and the AI technology that is going to make changes in our day-to-day lives and how it really impacts us.
+
+👯 &nbsp;I'm looking to collaborate on **A cancer research paper**  
+🤔 &nbsp;I'm looking for help with **Publishing research papers**  
 😄 &nbsp;Pronouns: **He/Him**
 
 ### 🛠️ Tech Stack
