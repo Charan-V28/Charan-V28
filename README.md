@@ -1,50 +1,51 @@
-<p align="center">
+<div align="center">
+
+  <!-- Minimal Dark Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=090d16&height=180&section=header&text=BHANUCHARAN%20REDDY&fontSize=34&fontColor=38bdf8&animation=twinkling" width="100%" alt="Header Banner" />
+
+  <br/>
+
+  <!-- Status pill badges -->
   <a href="https://github.com/Charan-V28">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f43f5e&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Charam" alt="Hello! I&#39;m Charam" />
+    <img src="https://img.shields.io/badge/BUILDING-AI_%2B_Computational_Oncology-0f172a?style=for-the-badge&logo=codeforces&logoColor=38bdf8&labelColor=020617" />
   </a>
-</p>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/CONTACT-Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=34d399&labelColor=020617" />
+  </a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=430&height=44&lines=I%20am%20a%20High%20School%20Student" alt="Typing headlines" />
-</p>
+  <br/><br/>
 
-### 🚀 About Me
+  <!-- Metric counter badges -->
+  <img src="https://komarev.com/ghpvc/?username=Charan-V28&color=38bdf8&style=flat-square&label=VISITORS" alt="Views" />
+  <img src="https://img.shields.io/github/followers/Charan-V28?style=flat-square&color=34d399&label=FOLLOWERS" alt="Followers" />
 
-I am a high school student who is passionate about computer science and the AI technology that is going to make changes in our day-to-day lives and how it really impacts us.
+</div>
 
-👯 &nbsp;I'm looking to collaborate on **A cancer research paper**  
-🤔 &nbsp;I'm looking for help with **Publishing research papers**  
-😄 &nbsp;Pronouns: **He/Him**
+<br/>
 
-### 🛠️ Tech Stack
+```terminal
+┌─── [ USER PROFILE ] ──────────────────────────────────────────┐
+│                                                               │
+│   ██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗          │
+│  ██╔════╝ ██║  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║          │
+│  ██║      ███████║███████║██████╔╝███████║██╔██╗ ██║          │
+│  ██║      ██╔══██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║          │
+│  ╚██████╗ ██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║          │
+│   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝          │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+[ 01 // OVERVIEW ]
+├─ IDENTITY ...... Bhanucharan Reddy Vanam
+├─ STATUS ........ High School Student & Independent Researcher
+├─ FOCUS ......... Machine Learning · Healthcare AI · Data Science
+└─ GOAL .......... Publishing peer-reviewed cancer research papers
 
-### 📊 GitHub Stats
+[ 02 // TECH_SPECIFICATION ]
+├─ CORE LANGUAGES ....... Python · JavaScript · Java · Swift · SQL
+├─ PLATFORMS & TOOLS .... Jupyter Notebook · Vercel · Git · VS Code
+└─ RESEARCH DOMAIN ...... Computational Oncology & Applied ML
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Charan-V28&show_icons=true&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Charan-V28&layout=compact&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Charan-V28&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Charan-V28">Charan-V28</a></i></p>
+[ 03 // COLLABORATION ]
+├─ LOOKING FOR .......... Research Mentors & Co-Authors
+└─ OPEN TO .............. Open-Source AI Projects in Healthcare
